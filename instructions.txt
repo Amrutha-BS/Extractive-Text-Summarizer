@@ -1,1 +1,2 @@
-#instructions file
+#The instructions file
+Instructions:
